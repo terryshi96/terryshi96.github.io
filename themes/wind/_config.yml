@@ -20,6 +20,9 @@ pages:
   about:
     link: "/about"
     icon: "fa fa-user-circle"
+  # gallery:
+  #   link: "/gallery"
+  #   icon: "fa fa-camera-retro"
   
 color:
   deactive: '#37474f'
